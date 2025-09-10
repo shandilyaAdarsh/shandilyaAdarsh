@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00e676&center=true&vCenter=true&width=600&lines=👋+Hi+I'm+Adarsh;Full+Stack+Developer;AI+%26+SaaS+Builder;Turning+Ideas+into+Products" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00e676&center=true&vCenter=true&width=600&lines=👋+Hi+I'm+Adarsh_Shandilya;Full+Stack+Developer;AI+%26+SaaS+Builder;Turning+Ideas+into+Products" />
 </p>
 
 ---
@@ -57,7 +57,7 @@
 <p>
   <a href="https://linkedin.com/in/adarsh-shandilya-509307299"><img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin" /></a>
   <a href="mailto:yashtiwari075@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://twitter.com/shandilyaAdarsh"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter" /></a>
+  <a href="https://twitter.com/shandilyAdarsh"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter" /></a>
 </p>
 
 ---
