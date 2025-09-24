@@ -46,9 +46,7 @@
 
 <!-- Projects -->
 ### 📂 Featured Projects  
-- 🚀 [My SaaS Starter Kit](https://github.com/YOUR_USERNAME/project1)  
-- 🤖 [AI Chatbot](https://github.com/YOUR_USERNAME/project2)  
-- 📱 [Mobile App Starter](https://github.com/YOUR_USERNAME/project3)  
+  
 
 ---
 
