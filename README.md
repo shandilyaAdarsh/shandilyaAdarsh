@@ -1,243 +1,98 @@
-# 🚀 Adarsh Shandilya — GitHub Profile README
-
-
-<h1 align="center">Hi 👋, I'm Adarsh Shandilya</h1>
-<h3 align="center">Full Stack Developer • MERN Stack Enthusiast • DSA Learner • Building Scalable Web Apps</h3>
-
+<!-- Banners & Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00C2FF&center=true&vCenter=true&random=false&width=700&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;DSA+Problem+Solver;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
-</p>
-
----
-
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-## 💫 About Me
-
-- 🔭 Currently working as a **Full Stack Developer Intern**
-- 🌱 Learning **Advanced Backend Architecture & System Design**
-- 💡 Passionate about **Scalable Applications, UI/UX, APIs & Performance Optimization**
-- 🧠 Solved **150+ DSA Problems** on LeetCode & CodeStudio
-- ⚡ Strong interest in **MERN Stack & AI-powered Applications**
-- 🎯 Goal: Become a highly skilled **Software Engineer & Product Builder**
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/adarsh-shandilya-509307299/" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="45" />
-</a>
-<a href="mailto:yashtiwari075@gmail.com">
-<img align="center" src="https://skillicons.dev/icons?i=gmail" height="45" />
-</a>
-<a href="https://github.com/shandilyaAdarsh" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="45" />
-</a>
-</p>
-
----
-
-# 💻 Tech Stack
-
-### 🚀 Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
-</p>
-
-### ⚙️ Backend
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### 🗄️ Database
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-### 🛠️ Tools & Platforms
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
-</p>
-
-### 👨‍💻 Programming Languages
-<p>
-<img src="https://skillicons.dev/icons?i=javascript,typescript,python,c" />
-</p>
-
----
-
-# 🧠 Data Structures & Algorithms
-
-✔️ Solved 150+ coding problems
-
-✔️ Strong understanding of:
-- Arrays
-- Strings
-- Recursion
-- Linked Lists
-- Stacks & Queues
-- Hashing
-- Sliding Window
-- Two Pointers
-
-✔️ Consistently improving problem-solving & optimization skills
-
----
-
-# 🚀 Featured Projects
-
-## 🤖 AI-Powered Job Recommendation Portal
-
-### 🔹 Tech Stack:
-MERN Stack • MongoDB • Express • React • Node.js
-
-### ✨ Features:
-- Secure Authentication System
-- Personalized Job Recommendations
-- Skill-based Filtering
-- Responsive Dashboard
-- REST API Integration
-- Scalable Backend Architecture
-
----
-
-## 🔮 Astrology Web Application
-
-### 🔹 Features:
-- Personalized Horoscope Generation
-- SEO Optimized Pages
-- Responsive UI Design
-- Performance Optimized Loading
-
----
-
-## 🎬 Movie Recommendation System
-
-### 🔹 Features:
-- Similarity-based Recommendation Engine
-- Top 5 Related Movie Suggestions
-- Enhanced UI with Posters
-
----
-
-## 🏫 School Management System
-
-### 🔹 Features:
-- Student Data Management
-- Exam Form Automation
-- Structured Database Handling
-- Reduced Manual Workflow
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shandilyaAdarsh&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shandilyaAdarsh&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Adarsh%20Shandilya&fontSize=50&animation=fadeIn&fontColor=ffffff" alt="Header Banner" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shandilyaAdarsh&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shandilyaAdarsh&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
+</p>
+
+<h3 align="center">🚀 Aspiring Full Stack Web Developer & Distributed Systems Enthusiast</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/adarsh-shandilya-509307299/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /></a>
+  <a href="mailto:yashtiwari075@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" /></a>
 </p>
 
 ---
 
-# 🏆 Achievements
+### 💫 About Me
 
-🏅 Full Stack Developer Intern Experience
+I am a **B.Tech Computer Science Engineering student** at **Quantum University** (Roorkee) and a **Full Stack Developer Intern**. I build responsive, highly optimized, and robust applications with a strong focus on clean architecture, performance, and scalability. I am also passionate about algorithms and problem-solving, having solved **150+ DSA problems** on LeetCode.
 
-🏅 Cyber Security Internship Experience
-
-🏅 Built Multiple Real-World Full Stack Projects
-
-🏅 Active DSA Practice & Interview Preparation
+- 🔭 I am currently working as a **Full Stack Intern at Elevance Skill**
+- ⚡ Specialization: **MERN Stack, Flutter, JavaScript, and Cyber Security**
+- 🛠️ Current Project Focus: **Enterprise-Grade Offline-First Restaurant Commerce Runtimes**
+- 🎓 Education: **B.Tech CSE @ Quantum University** (2026 - Present)
 
 ---
 
-# 📈 Contribution Graph
+### 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shandilyaAdarsh&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shandilyaAdarsh&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shandilyaAdarsh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 ---
 
-# 🎯 Current Focus
-
-- Advanced MERN Stack Development
-- Backend Scalability & APIs
-- System Design
-- Clean Architecture
-- Performance Optimization
-- Open Source Contributions
-
----
-
-# ✨ Fun Fact
-
-💻 I love building products that solve real-world problems and improve user experience.
-
-⚡ "Consistency beats intensity."
-
----
+### 💻 Technical Stack
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shandilyaAdarsh&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <br/>
+  <!-- Frontend & Mobile -->
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <br/>
+  <!-- Backend & Databases -->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <br/>
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
-```
 
 ---
 
-# 🔥 Improvements Added Using Your Resume
+### 🛡️ Featured Project: Orderlli Commerce & Configuration Runtime
+> **Role:** Lead Architect & Distributed Systems Specialist (Flutter & Riverpod)
 
-Based on your resume, these improvements were included:
+**Orderlli** is an enterprise-grade offline-first restaurant commerce preparation and runtime orchestration platform. I engineered the client-side local transaction engines to ensure seamless operational continuity in restaurants with unstable network connection boundaries.
 
-* Stronger developer branding
-* Professional headline & animated intro
-* Better project presentation
-* Modern GitHub stats & contribution graphs
-* Organized tech stack sections
-* Internship experience positioning
-* DSA achievements highlighted professionally
-* Better recruiter-focused structure
-* More visually appealing layout inspired by premium GitHub profiles
-* Optimized for portfolio & internship/job applications
+#### Key Architectural Contributions:
+*   **Deterministic Cart State Machine**: Developed a Riverpod-driven, local-only cart reducer system that uniquely groups items based on sorted modifier configuration hashes.
+*   **Immutable Pricing Snapshot Engine**: Engineered an automated, in-memory price-drift detection system that locks prices upon item selection and highlights version differences when catalog updates occur on the server.
+*   **3-Way OCC Field-Level Conflict Resolver**: Designed a properties-level reconciliation algorithm to merge concurrent local offline edits and authoritative server states, avoiding data loss.
+*   **Offline sync_queue Integration**: Built a transactional outbox out of SharedPreferences and database entities matching the backend table schemas to queue checkout drafts with UUID-based idempotency keys, preventing duplicate kitchen tickets.
+*   **Adaptive Status Polling Bridge**: Designed an SLA-aware polling scheduler that dynamically adjusts frequency (10s to 120s backoff) based on order age, terminal states, and network outage flags.
 
-# 📌 Next Steps
+---
 
-1. Create a new repository named:
-   `shandilyaAdarsh`
+### 📁 Other Featured Projects
 
-2. Add a `README.md`
+*   💼 **AI-Powered Job Recommendation Portal (MERN)**: Full-stack job board utilizing React and MongoDB with skill-based filtering algorithms and custom candidate dashboards.
+*   🔮 **Astrology Web Application (TS/JS)**: Dynamic horoscope generation engine featuring deep performance optimizations and SEO structured JSON-LD schemas.
+*   🎬 **Movie Recommendation Engine (Python)**: Dynamic content-filtering similarity system recommending top related media with active poster rendering.
 
-3. Copy the generated markdown
+---
 
-4. Commit changes
+### 🤝 Contact Details
 
-5. Your GitHub profile will automatically update
+*   💼 **LinkedIn**: [https://www.linkedin.com/in/adarsh-shandilya-509307299/](https://www.linkedin.com/in/adarsh-shandilya-509307299/)
+*   📧 **Email**: [yashtiwari075@gmail.com](mailto:yashtiwari075@gmail.com)
+*   💻 **GitHub**: [https://github.com/shandilyaAdarsh](https://github.com/shandilyaAdarsh)
 
-# 💡 Recommended Improvements For Your GitHub
-
-## Repositories You Should Build Next
-
-* Full Stack E-Commerce Platform
-* Real-time Chat Application
-* AI SaaS Dashboard
-* DevOps + Docker Deployment Project
-* System Design Case Studies
-* Open Source Contributions
-
-## Important
-
-Your GitHub will look significantly stronger if you:
-
-* Add pinned repositories
-* Write proper README files for every project
-* Add project screenshots
-* Maintain contribution consistency
-* Push code regularly
-* Add live deployed links
-* Use clean folder structures
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Banner" />
+</p>
