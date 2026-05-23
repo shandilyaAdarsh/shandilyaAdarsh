@@ -1,6 +1,6 @@
 # 🚀 Adarsh Shandilya — GitHub Profile README
 
-```md
+
 <h1 align="center">Hi 👋, I'm Adarsh Shandilya</h1>
 <h3 align="center">Full Stack Developer • MERN Stack Enthusiast • DSA Learner • Building Scalable Web Apps</h3>
 
